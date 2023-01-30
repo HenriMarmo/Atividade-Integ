@@ -1,0 +1,2 @@
+INSERT INTO tb_pessoa (id,nome,cpf,rg,dataNascimento,estadoCivil,telefone,email) VALUES (1,'Fabio','45476745410','1112223','2000-05-01','casado','19988776655','fabio.souza3@gmail.com');
+INSERT INTO tb_pessoa (id,nome,cpf,rg,dataNascimento,estadoCivil,telefone,email) VALUES (2,'Julia','47894575407','4441115','2004-09-01','solteira','11999779955','juliamaria1@gmail.com');
